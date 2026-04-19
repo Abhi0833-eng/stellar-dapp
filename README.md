@@ -1,16 +1,53 @@
-# React + Vite
+# Stellar Payment dApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Stellar testnet payment dApp built with React and Vite.
 
-Currently, two official plugins are available:
+## Features
+- Connect Freighter wallet
+- Display XLM balance
+- Send XLM transactions on Stellar testnet
+- View transaction on Stellar Explorer
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tech Stack
+- React + Vite
+- @stellar/freighter-api
+- @stellar/stellar-sdk
+- Stellar Testnet (Horizon)
 
-## React Compiler
+## Setup Instructions
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Prerequisites
+- Node.js v18+
+- Freighter wallet extension installed in Chrome
+- Freighter set to Testnet
 
-## Expanding the ESLint configuration
+### Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository:
+   git clone https://github.com/Abhi0833-eng/stellar-dapp.git
+
+2. Install dependencies:
+   cd stellar-dapp
+   npm install
+
+3. Run the app:
+   npm run dev
+
+4. Open browser:
+   http://localhost:5173
+
+## How to Use
+1. Install Freighter wallet extension
+2. Switch Freighter to Test Net
+3. Fund wallet using Friendbot
+4. Click "Connect Freighter Wallet"
+5. Enter destination address and amount
+6. Click "Send XLM" and confirm in Freighter
+
+## Screenshots
+- Wallet connected with balance displayed
+- Successful XLM transaction on testnet
+- Transaction confirmed on Stellar Explorer
+
+## Network
+Stellar Testnet (Horizon: https://horizon-testnet.stellar.org)
