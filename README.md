@@ -51,3 +51,17 @@ A simple Stellar testnet payment dApp built with React and Vite.
 
 ## Network
 Stellar Testnet (Horizon: https://horizon-testnet.stellar.org)
+
+## Screenshot
+
+Balance dispalyed
+https://github.com/Abhi0833-eng/stellar-dapp/blob/d09a4be304f28265ba2fe0d7ad711ba4218338d3/screenshot/Balance%20Displayed.png
+
+Successful testnet
+https://github.com/Abhi0833-eng/stellar-dapp/blob/d09a4be304f28265ba2fe0d7ad711ba4218338d3/screenshot/Successful%20tesnet.png
+
+Transaction Successful
+https://github.com/Abhi0833-eng/stellar-dapp/blob/d09a4be304f28265ba2fe0d7ad711ba4218338d3/screenshot/Transaction%20Succesful.png
+
+Wallet Connected
+https://github.com/Abhi0833-eng/stellar-dapp/blob/d09a4be304f28265ba2fe0d7ad711ba4218338d3/screenshot/Wallet%20Connected.png
