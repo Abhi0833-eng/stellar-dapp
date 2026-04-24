@@ -1,5 +1,21 @@
 # Stellar Payment dApp
 
+## About This Project
+Stellar Payment dApp is a decentralized web application built on the Stellar blockchain testnet. It allows users to connect their Freighter wallet, view their XLM balance, and send XLM payments directly on the Stellar testnet — all from a clean, simple React interface.
+
+The vision of this project is to demonstrate how easy it is to build real-world blockchain payment applications using Stellar's fast, low-cost, and developer-friendly infrastructure.
+
+## Vision
+To make blockchain payments accessible to everyone by providing a simple, intuitive interface for sending XLM on the Stellar network — paving the way for real-world adoption of decentralized finance.
+
+## Key Features
+- **Wallet Connection** — Connect and disconnect Freighter wallet with one click
+- **Balance Display** — Real-time XLM balance fetched from Stellar Horizon testnet
+- **Send XLM** — Send XLM to any Stellar address on testnet
+- **Transaction Feedback** — Live status updates (pending, success, failed) with transaction hash
+- **Stellar Explorer** — Direct link to verify transactions on Stellar Expert
+- **Testnet Ready** — Fully configured for Stellar testnet with Friendbot funding support
+
 A simple Stellar testnet payment dApp built with React and Vite.
 
 ## Features
