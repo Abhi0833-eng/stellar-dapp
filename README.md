@@ -52,6 +52,15 @@ A simple Stellar testnet payment dApp built with React and Vite.
 ## Network
 Stellar Testnet (Horizon: https://horizon-testnet.stellar.org)
 
+## Deployed Contract
+
+Contract Address: `CBVY4FQ43ZMDATQHTSFNZQ3UOHIFKLWKMJBFTKKVSV6JYYXOPOWTHXH7`
+
+[View on Stellar Expert](https://stellar.expert/explorer/testnet/contract/CBVY4FQ43ZMDATQHTSFNZQ3UOHIFKLWKMJBFTKKVSV6JYYXOPOWTHXH7)
+
+## Smart Contract
+Smart contract code is in `contracts/poll/src/lib.rs`
+
 ## Screenshot
 
 Balance dispalyed
